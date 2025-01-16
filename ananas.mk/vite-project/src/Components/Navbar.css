@@ -1,0 +1,36 @@
+.navbar {
+  //display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+
+}
+.navbar-center .nav-links {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 10;
+}
+
+.navbar-center .nav-links li {
+  margin-right: 3rem;
+}
+
+.navbar-center .nav-links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+/*"justify-between,items-center, bg-black, text-white p-4*/  
+
+/* list-none, flex , justify-center, m-0,p-10   */
+
+
+/*   mr-12                            */
+
+/* text-white   no-underline        */
